@@ -38,8 +38,8 @@ public class FlappyAngryBirds {
                     ga = j - i;
                     gb = n - 1;
 
-                    ta = (n - 1) * i - 1 * ga;
-                    tb = n - 1;
+                    ta = gb * i - 1 * ga;
+                    tb = gb;
                     if (ta < 0)
                         hasil = false;
                     break;
