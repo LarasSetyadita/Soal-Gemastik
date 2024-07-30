@@ -1,0 +1,104 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "KolamIkan",
+            "request": "launch",
+            "mainClass": "KolamIkan",
+            "projectName": "Soal gemastik_f349e5d6"
+        },
+        {
+            "name": "Java",
+            "type": "java",
+            "request": "launch",
+            "stopOnEntry": true,
+            "jdkPath": "${env:JAVA_HOME}/bin",
+            "cwd": "${fileDirname}",
+            "startupClass": "${fileBasenameNoExtension}",
+            "classpath": [
+                ".",
+                "${fileDirname}"
+            ]
+        },
+        {
+            "name": "Java Console App",
+            "type": "java",
+            "request": "launch",
+            "stopOnEntry": true,
+            "jdkPath": "${env:JAVA_HOME}/bin",
+            "cwd": "${fileDirname}",
+            "startupClass": "${fileBasenameNoExtension}",
+            "classpath": [
+                ".",
+                "${fileDirname}"
+            ],
+            "externalConsole": true
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "ArahTembakan",
+            "request": "launch",
+            "mainClass": "ArahTembakan",
+            "projectName": "Soal gemastik_f349e5d6"
+        },
+        {
+            "type": "java",
+            "name": "BelajarDariRumah",
+            "request": "launch",
+            "mainClass": "BelajarDariRumah",
+            "projectName": "Soal gemastik_f349e5d6"
+        },
+        {
+            "type": "java",
+            "name": "Bitcoin",
+            "request": "launch",
+            "mainClass": "Bitcoin",
+            "projectName": "Soal gemastik_f349e5d6"
+        },
+        {
+            "type": "java",
+            "name": "FaktorisasiPrima",
+            "request": "launch",
+            "mainClass": "FaktorisasiPrima",
+            "projectName": "Soal gemastik_f349e5d6"
+        },
+        {
+            "type": "java",
+            "name": "FlappyAngryBirds",
+            "request": "launch",
+            "mainClass": "FlappyAngryBirds",
+            "projectName": "Soal gemastik_f349e5d6"
+        },
+        {
+            "type": "java",
+            "name": "JalanJalanVirtual",
+            "request": "launch",
+            "mainClass": "JalanJalanVirtual",
+            "projectName": "Soal gemastik_f349e5d6"
+        },
+        {
+            "type": "java",
+            "name": "MaximumSumOfArray",
+            "request": "launch",
+            "mainClass": "MaximumSumOfArray",
+            "projectName": "Soal gemastik_f349e5d6"
+        },
+        {
+            "type": "java",
+            "name": "UndianBerhadiah",
+            "request": "launch",
+            "mainClass": "UndianBerhadiah",
+            "projectName": "Soal gemastik_f349e5d6"
+        }
+    ]
+}
