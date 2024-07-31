@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "JangkauanBom",
+            "request": "launch",
+            "mainClass": "JangkauanBom",
+            "projectName": "Soal gemastik_f349e5d6"
+        },
+        {
+            "type": "java",
             "name": "KolamIkan",
             "request": "launch",
             "mainClass": "KolamIkan",
